@@ -1,0 +1,12 @@
+# 节点源列表
+# 每行一个：订阅 URL，或仓库内的文件路径
+# 以 # 开头的行会被忽略
+
+# 内置：初始导入的节点（已随仓库提交）
+nodes_base.txt
+
+# 示例：从公开订阅地址抓取（把下面这行改成你自己的源并去掉注释）
+# https://example.com/your-subscription-url
+
+# 示例：另一个本地文件
+# nodes_extra.txt

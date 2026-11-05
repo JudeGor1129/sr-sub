@@ -144,7 +144,6 @@ trojan://humanity@87.120.126.131:443?security=tls&sni=www.cordweave.com&insecure
 trojan://humanity@87.236.146.111:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%E6%8D%B7%E5%85%8B
 trojan://humanity@91.149.167.147:8443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A7%F0%9F%87%BE%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://humanity@93.170.72.138:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%B0%F0%9F%87%BF%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%2001
-trojan://humanity@95.182.95.144:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2008
 trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-78.142.194.96-5481
 trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.90.69-5488
 vless://abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5@189.74.114.119:443?sni=api.mediaklenov.cc&type=grpc&serviceName=3e99d50d5740985d&fp=safari&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%207

@@ -66,6 +66,7 @@ trojan://humanity@128.199.128.117:443?security=tls&sni=www.cordweave.com&insecur
 trojan://humanity@129.225.185.49:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2004
 trojan://humanity@130.12.46.156:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%2011
 trojan://humanity@131.196.254.151:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%B2%F0%9F%87%BD%E5%A2%A8%E8%A5%BF%E5%93%A5
+trojan://humanity@138.124.231.159:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%2005
 trojan://humanity@141.164.34.161:8443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2001
 trojan://humanity@141.98.41.20:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2007
 trojan://humanity@143.110.175.165:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%E8%8B%B1%E5%9B%BD%20%282%29
@@ -146,6 +147,7 @@ trojan://humanity@91.149.167.147:8443?security=tls&sni=www.cordweave.com&insecur
 trojan://humanity@93.170.72.138:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%B0%F0%9F%87%BF%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%2001
 trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-78.142.194.96-5481
 trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.90.69-5488
+vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@178.236.245.59:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tau1.freerunet.online&fp=firefox&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&sid=4a7b1c8d&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%20%2871%29
 vless://abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5@189.74.114.119:443?sni=api.mediaklenov.cc&type=grpc&serviceName=3e99d50d5740985d&fp=safari&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%207
 vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?allowInsecure=0&sni=kk-ru24a1.testkknegr.online&alpn=h2&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS%203
 vless://1c8f7130-8c1a-4949-831d-1d45b39c795b@5.181.158.195:8463?&security=reality&flow=xtls-rprx-vision&pbk=k2jSuvKPXyN0fCJiGpl1NMzzN7kzo64vsbbLD4gdKQ4&sid=f017b721750fd683&fp=firefox&sni=svoboda2.bystriynet.online&type=tcp&headerType=none&host=svoboda2.bystriynet.online&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU

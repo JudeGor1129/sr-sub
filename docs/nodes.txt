@@ -132,7 +132,6 @@ trojan://humanity@85.235.64.69:443?security=tls&sni=www.cordweave.com&insecure=1
 trojan://humanity@87.120.126.131:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%2003
 trojan://humanity@87.236.146.111:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%E6%8D%B7%E5%85%8B
 trojan://humanity@91.149.167.147:8443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A7%F0%9F%87%BE%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://humanity@93.170.72.138:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%B0%F0%9F%87%BF%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%2001
 trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-78.142.194.96-5481
 trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.90.69-5488
 vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@130.49.162.137:443?sni=sk3.speedtestinternet.link&flow=xtls-rprx-vision-udp443-udp443&fp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%B0SK_1%7C2.8MB/s

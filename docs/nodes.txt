@@ -123,7 +123,6 @@ trojan://humanity@54.116.249.102:443?security=tls&sni=www.cordweave.com&insecure
 trojan://humanity@68.64.180.218:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2009
 trojan://humanity@76.13.188.13:8443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%B2%F0%9F%87%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
 trojan://humanity@82.118.18.179:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD%20%2823%29
-trojan://humanity@83.147.254.59:2053?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0
 trojan://humanity@83.228.199.3:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%AB
 trojan://humanity@85.235.64.69:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%2006
 trojan://humanity@87.120.126.131:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%2003
